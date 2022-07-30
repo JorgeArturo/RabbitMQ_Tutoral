@@ -1,0 +1,17 @@
+D:\11.- dotnet\RabbitMQ_SendRecieve\recieve\Recieve\obj\Debug\netcoreapp3.1\Recieve.csproj.AssemblyReference.cache
+D:\11.- dotnet\RabbitMQ_SendRecieve\recieve\Recieve\obj\Debug\netcoreapp3.1\Recieve.GeneratedMSBuildEditorConfig.editorconfig
+D:\11.- dotnet\RabbitMQ_SendRecieve\recieve\Recieve\obj\Debug\netcoreapp3.1\Recieve.AssemblyInfoInputs.cache
+D:\11.- dotnet\RabbitMQ_SendRecieve\recieve\Recieve\obj\Debug\netcoreapp3.1\Recieve.AssemblyInfo.cs
+D:\11.- dotnet\RabbitMQ_SendRecieve\recieve\Recieve\obj\Debug\netcoreapp3.1\Recieve.csproj.CoreCompileInputs.cache
+D:\11.- dotnet\RabbitMQ_SendRecieve\recieve\Recieve\bin\Debug\netcoreapp3.1\Recieve.exe
+D:\11.- dotnet\RabbitMQ_SendRecieve\recieve\Recieve\bin\Debug\netcoreapp3.1\Recieve.deps.json
+D:\11.- dotnet\RabbitMQ_SendRecieve\recieve\Recieve\bin\Debug\netcoreapp3.1\Recieve.runtimeconfig.json
+D:\11.- dotnet\RabbitMQ_SendRecieve\recieve\Recieve\bin\Debug\netcoreapp3.1\Recieve.runtimeconfig.dev.json
+D:\11.- dotnet\RabbitMQ_SendRecieve\recieve\Recieve\bin\Debug\netcoreapp3.1\Recieve.dll
+D:\11.- dotnet\RabbitMQ_SendRecieve\recieve\Recieve\bin\Debug\netcoreapp3.1\Recieve.pdb
+D:\11.- dotnet\RabbitMQ_SendRecieve\recieve\Recieve\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\11.- dotnet\RabbitMQ_SendRecieve\recieve\Recieve\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\11.- dotnet\RabbitMQ_SendRecieve\recieve\Recieve\obj\Debug\netcoreapp3.1\Recieve.csproj.CopyComplete
+D:\11.- dotnet\RabbitMQ_SendRecieve\recieve\Recieve\obj\Debug\netcoreapp3.1\Recieve.dll
+D:\11.- dotnet\RabbitMQ_SendRecieve\recieve\Recieve\obj\Debug\netcoreapp3.1\Recieve.pdb
+D:\11.- dotnet\RabbitMQ_SendRecieve\recieve\Recieve\obj\Debug\netcoreapp3.1\Recieve.genruntimeconfig.cache

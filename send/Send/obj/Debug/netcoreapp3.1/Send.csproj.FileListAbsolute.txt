@@ -1,0 +1,17 @@
+D:\11.- dotnet\RabbitMQ_SendRecieve\send\Send\bin\Debug\netcoreapp3.1\Send.exe
+D:\11.- dotnet\RabbitMQ_SendRecieve\send\Send\bin\Debug\netcoreapp3.1\Send.deps.json
+D:\11.- dotnet\RabbitMQ_SendRecieve\send\Send\bin\Debug\netcoreapp3.1\Send.runtimeconfig.json
+D:\11.- dotnet\RabbitMQ_SendRecieve\send\Send\bin\Debug\netcoreapp3.1\Send.runtimeconfig.dev.json
+D:\11.- dotnet\RabbitMQ_SendRecieve\send\Send\bin\Debug\netcoreapp3.1\Send.dll
+D:\11.- dotnet\RabbitMQ_SendRecieve\send\Send\bin\Debug\netcoreapp3.1\Send.pdb
+D:\11.- dotnet\RabbitMQ_SendRecieve\send\Send\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\11.- dotnet\RabbitMQ_SendRecieve\send\Send\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\11.- dotnet\RabbitMQ_SendRecieve\send\Send\obj\Debug\netcoreapp3.1\Send.csproj.AssemblyReference.cache
+D:\11.- dotnet\RabbitMQ_SendRecieve\send\Send\obj\Debug\netcoreapp3.1\Send.GeneratedMSBuildEditorConfig.editorconfig
+D:\11.- dotnet\RabbitMQ_SendRecieve\send\Send\obj\Debug\netcoreapp3.1\Send.AssemblyInfoInputs.cache
+D:\11.- dotnet\RabbitMQ_SendRecieve\send\Send\obj\Debug\netcoreapp3.1\Send.AssemblyInfo.cs
+D:\11.- dotnet\RabbitMQ_SendRecieve\send\Send\obj\Debug\netcoreapp3.1\Send.csproj.CoreCompileInputs.cache
+D:\11.- dotnet\RabbitMQ_SendRecieve\send\Send\obj\Debug\netcoreapp3.1\Send.csproj.CopyComplete
+D:\11.- dotnet\RabbitMQ_SendRecieve\send\Send\obj\Debug\netcoreapp3.1\Send.dll
+D:\11.- dotnet\RabbitMQ_SendRecieve\send\Send\obj\Debug\netcoreapp3.1\Send.pdb
+D:\11.- dotnet\RabbitMQ_SendRecieve\send\Send\obj\Debug\netcoreapp3.1\Send.genruntimeconfig.cache

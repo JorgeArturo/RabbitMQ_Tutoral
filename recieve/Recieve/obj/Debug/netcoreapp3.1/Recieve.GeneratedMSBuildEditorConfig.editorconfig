@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Recieve
+build_property.ProjectDir = D:\11.- dotnet\RabbitMQ_SendRecieve\recieve\Recieve\
