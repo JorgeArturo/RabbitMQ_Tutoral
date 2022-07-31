@@ -19,11 +19,12 @@ namespace Worker
             using(var connection = factory.CreateConnection())
             using(var channel = connection.CreateModel())
             {
-                channel.QueueDeclare(queue: "task_queue",
-                                    durable: false,
-                                    exclusive: false,
-                                    autoDelete: false,
-                                    arguments: null);
+
+                channel.ExchangeDeclare(exchange:"logs",type:ExchangeType.Fanout);
+
+                var queueName = channel.QueueDeclare().QueueName;
+
+                channel.QueueBind(queue:queueName,exchange:"logs",routingKey:"");
 
                 channel.BasicQos(prefetchSize:0,prefetchCount:1,global:false);
 
@@ -38,7 +39,7 @@ namespace Worker
                     Console.WriteLine(" [x] Done");
                     channel.BasicAck(deliveryTag:ea.DeliveryTag,multiple:false);
                 };
-                channel.BasicConsume(queue: "task_queue",
+                channel.BasicConsume(queue: queueName,
                                     autoAck: true,
                                     consumer: consumer);
 

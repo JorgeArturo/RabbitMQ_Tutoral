@@ -9,7 +9,6 @@ namespace NewTask
             var message = GetMessage(args);
             var sendData = new SendRabbitMQ(message);
             
-            Console.WriteLine("Hello World!");
         }
 
         private static string GetMessage(string[] args)
